@@ -1,0 +1,34 @@
+.AddProducts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 10px;
+}
+.AddProducts form{
+    padding: 10px;
+    outline: 2px solid black;
+    display: grid;
+    border-radius: 5px;
+    grid-template-columns: 200px 300px;
+}
+.AddProducts input,label{
+    margin: 10px;
+}
+.AddProducts input{
+    border: none;
+    outline: none;
+    border-bottom: 3px solid magenta;   
+}
+.AddProducts form h2{
+    width: 500px;
+    text-align: center;
+    margin: 10px;
+}
+.AddProducts form hr{
+    width: 500px;
+}
+.AddProducts form button{
+    width: 500px;
+   margin: 20px 0px;
+}

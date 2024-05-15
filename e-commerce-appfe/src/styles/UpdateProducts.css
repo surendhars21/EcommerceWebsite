@@ -1,0 +1,32 @@
+.UpdateProducts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 30px;
+}
+.UpdateProducts form{
+    padding: 10px;
+    outline: 2px solid black;
+    display: grid;
+    grid-template-columns: 200px 300px;
+}
+.UpdateProducts input,label{
+    margin: 10px;
+}
+.UpdateProducts input{
+    border: none;
+    outline: none;
+}
+.UpdateProducts form h2{
+    width: 500px;
+    margin: 10px;
+    text-align: center;
+}
+.UpdateProducts form hr{
+    width: 500px;
+}
+.UpdateProducts form button{
+    width: 500px;
+    margin: 20px 0px;
+}

@@ -1,0 +1,16 @@
+.usernavbar{
+    background-color: burlywood;
+    height: 80px;
+    padding: 0px 50px;
+}
+.usernavbar h1{
+    color: brown;
+}
+.usernavbar span{
+    color: beige;
+}
+.usernavbar a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
